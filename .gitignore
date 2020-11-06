@@ -1,0 +1,8 @@
+*.exe
+*.iml
+*.jar
+*.dbs
+*.bat
+library/
+.idea/
+out/
